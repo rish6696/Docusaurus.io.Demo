@@ -1,0 +1,14 @@
+{
+  "docs": {
+    "General":["gen"],
+    "Plans & Bill":["planAndbill"],
+    "Buisness Registration":["buisness"],
+    "Domain & Hosting":["domain"],
+    "Managing Your Store":["managing"],
+    "Payments":["payments"],
+    "DELIVERY":["delivery"]
+  },
+  "docs-other": {
+    "First Category": ["doc4", "doc5"]
+  }
+}
